@@ -2,11 +2,10 @@
 
 A 30-min reading habit that will nourish your intellect and life with Culture, Nature, Tech, and Business.
 
-# Reading Immersion: Newsletter Recommendation System
 
 ## Overview
 
-Welcome to the Newsletter Recommendation System! This is a command-line application designed for curious, lifelong learners and avid readers who want to discover their next favorite newsletter. Whether you're looking to gain new insights or stay in touch with the world around you, this tool helps you find curated recommendations tailored to your interests.
+Welcome to the Morning Immersion, a great newsletter recommendation system! This is a command-line application designed for curious, lifelong learners and avid readers who want to discover their next favorite newsletter. Whether you're looking to gain new insights or stay in touch with the world around you, this tool helps you find curated recommendations tailored to your interests.
 
 _The system is built to be simple, interactive, and easy to use, running entirely within your terminal._
 
@@ -85,4 +84,4 @@ The project consists of two main Python files:
     python main.py
     ```
     
-5.  **Follow the Prompts**: The application will start, and you can begin exploring newsletter recommendations immediately!
+5.  **Follow the Prompts**: The application will start, and you can begin exploring Morning Immersion immediately!
